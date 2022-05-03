@@ -1,8 +1,8 @@
 import socket
 import threading
 
-target = '127.0.0.1'
-fake_ip ='182.89.20.32'
+target = 'Put traget ip here'
+fake_ip ='put fake ip here'
 port = 80
 
 def attack():
